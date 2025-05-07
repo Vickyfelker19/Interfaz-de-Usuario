@@ -1,4 +1,4 @@
-Requisitos para desarrollar un sistema de reconocimiento de objetos,
+Requisitos para desarrollar un sistema de reconocimiento de objetos
 a) Hardware
 GPU potente (para entrenamiento y, a veces, para inferencia).
 Cámaras o sensores de entrada (si es en tiempo real).
