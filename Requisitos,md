@@ -1,0 +1,18 @@
+Requisitos para desarrollar un sistema de reconocimiento de objetos,
+a) Hardware
+GPU potente (para entrenamiento y, a veces, para inferencia).
+Cámaras o sensores de entrada (si es en tiempo real).
+
+b) Software y herramientas
+Frameworks como TensorFlow, PyTorch, OpenCV.
+Librerías especializadas como Detectron2, YOLOv5/YOLOv8, MMDetection.
+
+c) Datos
+Gran cantidad de imágenes anotadas con precisión.
+Diversidad de condiciones (luz, ángulos, fondos) para robustez.
+
+d) Etapas del desarrollo
+Recolección y anotación de datos.
+Entrenamiento de modelos (ajuste de hiperparámetros).
+Evaluación: Métricas como precisión, recall, IoU.
+Despliegue: En dispositivos, servidores o la nube.
